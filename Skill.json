@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "HTML5",
+        "icon": "/img/html-1.svg",
+        "level": "Intermediate"
+    
+    },
+    {
+        "id": 2,
+        "name": "CSS3",
+        "icon": "/img/css-3.svg",
+        "level": "Intermediate"
+    
+    },
+    {
+        "id": 3,
+        "name": "JavaScript",
+        "icon": "/img/logo-javascript.svg",
+        "level": "Intermediate"
+    
+    },
+    {
+        "id": 4,
+        "name": "Sass",
+        "icon": "/img/sass-1.svg",
+        "level": "Intermediate"
+
+    },
+    {
+        "id": 5,
+        "name": "Bootstrap",
+        "icon": "/img/bootstrap-5-1.svg",
+        "level": "Intermediate"
+
+    },
+    {
+        "id": 6,
+        "name": "ReactJS",
+        "icon": "/img/react-2.svg",
+        "level": "Intermediate"
+
+    },
+    {
+        "id": 7,
+        "name": "Material ui",
+        "icon": "/img/material-ui-1.svg",
+        "level": "Intermediate"
+
+    },
+    {
+        "id": 8,
+        "name": "jQuery",
+        "icon": "img/jquery-6.svg",
+        "level": "Intermediate"
+
+    },
+    {
+        "id": 9,
+        "name": "GitHub",
+        "icon": "/img/git-icon.svg",
+        "level": "Intermediate"
+    } 
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "serviceicon":"fa-solid fa-pen-nib",
+        "servicename":"Web",
+        "servicenamesec":"Designer",
+        "servicepara":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate quo dignissimos"
+    },
+    {
+        "id":2,
+        "serviceicon":"fa-solid fa-code",
+        "servicename":"Web",
+        "servicenamesec":"Developer",
+        "servicepara":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate quo dignissimos"
+    },
+    {
+        "id":3,
+        "serviceicon":"fa-solid fa-pen-fancy",
+        "servicename":"Graphic",
+        "servicenamesec":"Designer",
+        "servicepara":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate quo dignissimos"
+    },
+    {
+        "id":4,
+        "serviceicon":"fa-solid fa-database",
+        "servicename":"backend",
+        "servicenamesec":"Developer",
+        "servicepara":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate quo dignissimos"
+    }
+]
